@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project is to analyse data from a bikesharing service in New York City, identifying who are their customers and how they use this service. This study will be used to replicate the business model in another location. Python, Pandas, and Jupyter notebooks were used for data cleansing. The visualisations were created in Tableau and can be accessed through this link [NYC Bikesharing Usage](https://public.tableau.com/app/profile/carolina.semerano/viz/Bikesharing_challenge_16548203401410/NYCBikesharingUsage?publish=yes).
+The purpose of this project is to analyse data from a bikesharing service in New York City, identifying who are their customers and how they use this service. This study will be used to replicate the business model in another location. Python, Pandas, and Jupyter notebooks were used for data cleansing. The visualisations were created in Tableau and can be accessed through this link [NYC Bikesharing Usage](https://public.tableau.com/app/profile/carolina.semerano/viz/NYC_bikesharing_16742497893640/NYCBike-sharingUsage#1).
 
 ## Results
 
@@ -20,7 +20,7 @@ The purpose of this project is to analyse data from a bikesharing service in New
 
 - Trip duration by gender: Breaking down by gender, there is no relevant difference in trip duration. However, we can notice a significantly higher amount of rides by male users.
 
-![Tripduration_by_Gender](Resources/Tripduratio_by_Gender.png)
+![Tripduratio_by_Gender](Resources/Tripduratio_by_Gender.png)
 
 - User trips by gender: Again, it is evident the higher concentration of rides by male subscribers. Special attention to weekdays with a higher amount of rides, Thursdays and Fridays.
 
