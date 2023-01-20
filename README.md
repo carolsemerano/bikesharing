@@ -1,4 +1,4 @@
-# NYC Bikesharing Usage
+# NYC Bike-sharing Usage
 
 ## Overview
 
@@ -20,7 +20,7 @@ The purpose of this project is to analyse data from a bikesharing service in New
 
 - Trip duration by gender: Breaking down by gender, there is no relevant difference in trip duration. However, we can notice a significantly higher amount of rides by male users.
 
-![Tripduratio_by_Gender](Resources/Tripduratio_by_Gender.png)
+![Tripduration_by_Gender](Resources/Tripduration_by_Gender.png)
 
 - User trips by gender: Again, it is evident the higher concentration of rides by male subscribers. Special attention to weekdays with a higher amount of rides, Thursdays and Fridays.
 
